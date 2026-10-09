@@ -1,0 +1,23 @@
+# Entorno PyTorch y aceleración por GPU
+torch>=2.0.0
+accelerate>=0.26.0
+
+# Ecosistema Hugging Face (Transformers & Peft)
+transformers>=4.38.0
+peft>=0.8.0
+bitsandbytes>=0.42.0
+datasets>=2.16.0
+torchao>=0.16.0
+
+# Ciencia de Datos y Machine Learning clásico
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Visualización de datos
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilidades e Integración con Kaggle
+kagglehub>=0.2.0
+psutil>=5.9.0
